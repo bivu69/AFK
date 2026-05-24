@@ -1,9 +1,10 @@
 {
   "name": "DrDonut",
-  "bot-account": {
+  "bot-account": {DrDonut
     "username": "DrDonut",
     "password": "",
-    "type": "offline"
+    "type": "online 
+  "
   },
   "server": {
     "ip": "play.splivegamer.xyz",
@@ -28,8 +29,8 @@
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": false,
-      "repeat-delay": false,
+      "repeat": true,
+      "repeat-delay": true,
       "messages": [
         "
         
