@@ -3,8 +3,7 @@
   "bot-account": {
     "username": "DrDonut",
     "password": "",
-    "type": "offline
-  "
+    "type": "offline"
   },
   "server": {
     "ip": "play.splivegamer.xyz",
@@ -30,9 +29,12 @@
     "chat-messages": {
       "enabled": false,
       "repeat": true,
-      "repeat-delay": true,
+      "repeat-delay": 120,
       "messages": [
-        "
+        "I'm a regular player",
+        "Subscribe to SoloPlayz!",
+        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+      ]
         
       ]
     },
@@ -42,7 +44,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
